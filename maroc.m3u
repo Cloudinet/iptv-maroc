@@ -26,6 +26,8 @@ https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_
 #EXTVLCOPT:http-referrer=https://snrtlive.ma/
 #EXTVLCOPT:http-user-agent=ExoPlayer
 https://cdn.live.easybroadcast.io/ts_corp/73_arryadia-tnt_zcmwjdc/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Arryadia.ma@HD" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports",Arryadia HD
+https://streamingv2.medi1tv.com/live/smil:arryadia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Assadissa.ma@SD" tvg-logo="https://i.postimg.cc/YS9NzzTf/assadissa.png" group-title="Religious" http-referrer="https://snrt.player.easybroadcast.io/",Assadissa (480p)
 #EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/
 https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/chunks_dvr.m3u8
@@ -49,3 +51,4 @@ https://136044159.r.cdnsun.net/storychannel.m3u8
 #EXTVLCOPT:http-referrer=https://snrtlive.ma/
 #EXTVLCOPT:http-user-agent=ExoPlayer
 https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/playlist_dvr.m3u8
+
