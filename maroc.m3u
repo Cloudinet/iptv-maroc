@@ -1,35 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2M Maroc" tvg-name="2M Monde MA" tvg-logo="https://m.2m.ma/static/images/2m-logo-thumbnail.png" group-title="Maroc",2M Maroc
-http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
-#EXTINF:-1 tvg-id="Al Aoula MA" tvg-name="Al Aoula MA" tvg-logo="https://raw.githubusercontent.com/3nakib/IPTV/master/icons/AlAoula.ma.png" group-title="Maroc",Al Aoula MA
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Al Maghribia MA" tvg-name="Al Maghribia MA" tvg-logo="https://raw.githubusercontent.com/3nakib/IPTV/master/icons/AlMaghribia.ma.png" group-title="Maroc",Al Maghribia MA
+#EXTINF:-1,2M Monde
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/index.m3u8
+#EXTINF:0,Al Aoula
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1,SNRT - AL-AULA
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1,SNRT - AL-MAGHRIBIA
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Medi 1 TV" tvg-name="Medi 1 TV" tvg-logo="http://www.medi1tv.com/ar/img/logo2.png" group-title="Maroc",Medi 1 TV MA
-http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="2M Maroc 2" tvg-name="2M Monde MA" tvg-logo="https://m.2m.ma/static/images/2m-logo-thumbnail.png" group-title="Maroc",2M Maroc
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="Al Aoula MA 2" tvg-name="Al Aoula MA" tvg-logo="https://raw.githubusercontent.com/3nakib/IPTV/master/icons/AlAoula.ma.png" group-title="Maroc",Al Aoula MA
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Al Maghribia MA 2" tvg-name="Al Maghribia MA" tvg-logo="https://raw.githubusercontent.com/3nakib/IPTV/master/icons/AlMaghribia.ma.png" group-title="Maroc",Al Maghribia MA
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Medi 1 TV 2" tvg-name="Medi 1 TV" tvg-logo="http://www.medi1tv.com/ar/img/logo2.png" group-title="Maroc",Medi 1 TV MA
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/ma" group-title="undefined",Télé Maroc
-http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:-1,Athaqafia
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1,Arryadia
+#EXTINF:-1,SNRT - AR-RIADIA
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1,Assadissa
+#EXTINF:0,2M Maroc
+http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=maroc2
+#EXTINF:0,2M Monde
+http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
+#EXTINF:0,2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+#EXTINF:0,Al Aoula
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:0,Al Aoula Laayoune TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:0,Al Aoula Laayoune TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:0,Al Maghribia
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:0,AL-MAGHRIBIA
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:0,AR-RABIAA
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:0,AR-RIADIA
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:0,Arrabia
+http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:0,Arrabia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8?fluxustv.m3u8
+#EXTINF:0,Arryadia
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:0,Arryadia
+http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia
+#EXTINF:0,AS-SADISSA
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
-#EXTINF:-1,Spacetoon
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:-1,National Geographic Abu Dhabi
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Mbc5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,MBC 3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Al Jazeera Documentary
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Assadissa
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:0,AT-TAMAZIGHT
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:0,Laayoune TV
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:0,Medi 1 TV
+http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
+#EXTINF:0,Tamazight TV
+http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:0,Télé Maroc
+http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
